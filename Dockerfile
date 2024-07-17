@@ -1,3 +1,3 @@
 FROM gcr.io/distroless/cc
-COPY tproxy /app/
-CMD ["/app/tproxy"]
+COPY algotelemetry /app/
+CMD ["/app/algotelemetry"]
